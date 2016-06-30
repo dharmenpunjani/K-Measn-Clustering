@@ -2,7 +2,7 @@ package Clustering;
 
 import java.util.List;
 
-//Data structure for the Point
+//Data structure for the Point ( Single record in the dataset)
 public class Point
 {
 	public List<Double> points;// List of the element of the vector
